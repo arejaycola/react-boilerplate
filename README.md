@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic boilerplate React SPA with client-side routing using react-router-dom
 
 ## Available Scripts
 
